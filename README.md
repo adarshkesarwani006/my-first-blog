@@ -3,7 +3,7 @@
 
 Django Blog is a blog web application created in Django Web Framework to show articles in a blog site backend in python and using SQLite3 as database.
 
-## 
+## How to See This Project
 
 1. Download the Zip Folder (https://github.com/adarshkesarwani006/my-first-blog) on your machine.
 2. Open it on any IDE most preferably Visual Code and Pycharm.
